@@ -1,4 +1,4 @@
-#OpenFOAMandBaysianOpt_Notebooks
+# OpenFOAMandBaysianOpt_Notebooks
 
 ## 概要
 本リポジトリはJupyter環境上のPythonからOpenFOAMを動作させ、ベイズ最適化をOpenFOAMに適用させるための教育資料です。
@@ -11,6 +11,6 @@ These JupyterNotebooks are licensed under [Creative Commons Attribution 4.0 Inte
 [![CC-BY](https://licensebuttons.net/l/by/4.0/88x31.png "CC-BY")](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 ## Author
-片山達也 オープンCAE勉強会@関西
+片山達也 オープンCAE勉強会@関西 \
 Tatsuya Katayama OpenCAE Local User Group @ KANSAI
 
